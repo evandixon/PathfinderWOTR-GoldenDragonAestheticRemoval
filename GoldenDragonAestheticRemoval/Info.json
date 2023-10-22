@@ -1,0 +1,10 @@
+﻿{
+	"Id": "GoldenDragonAestheticRemoval",
+	"DisplayName": "Golden Dragon Aesthetic Removal",
+	"Author": "evandixon",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.25.4",
+	"Requirements": [],
+	"AssemblyName": "GoldenDragonAestheticRemoval.dll",
+	"EntryMethod": "GoldenDragonAestheticRemoval.Main.Load"
+}
